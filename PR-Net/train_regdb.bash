@@ -1,0 +1,10 @@
+python train.py --dataset regdb --gpu 0 --trial 1 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 2 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 3 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 4 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 5 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 6 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 7 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 8 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 9 --workers 0
+python train.py --dataset regdb --gpu 0 --trial 10 --workers 0
